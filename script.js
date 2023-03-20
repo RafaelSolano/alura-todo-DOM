@@ -1,7 +1,7 @@
 import checkComplete from "./components/checkComplete.js";
 import deletIcon from "./components/deleteIcon.js";
 
-  const btn = document.querySelector('[data-form-btn]');
+const btn = document.querySelector('[data-form-btn]');
 
   //Arrow function
 

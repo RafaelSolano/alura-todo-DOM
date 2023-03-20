@@ -13,4 +13,4 @@ const deleteTask = (event) => {
   
 }
 
-export default deletIcon
+export default deletIcon;

@@ -5,7 +5,6 @@ const checkComplete = () =>{
   return i;
 }
 
-
 const completeTask = (event)=>{
   
   const element = event.target
@@ -15,4 +14,4 @@ const completeTask = (event)=>{
   
 };
 
-export default checkComplete
+export default checkComplete;
